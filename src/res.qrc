@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>../img/sneaker.png</file>
+        <file>../img/sneaker_s.png</file>
+        <file>../img/harryPotter.jpg</file>
+        <file>../img/PNG/thinwood1.png</file>
+        <file>../img/PNG/thinwood.png</file>
+        <file>../img/PNG/pig2.png</file>
+        <file>../img/PNG/wood.png</file>
+        <file>../img/PNG/blue.png</file>
+        <file>../img/PNG/white.png</file>
+        <file>../img/PNG/green.png</file>
+        <file>../img/back_64px_26592_easyicon.net.png</file>
+        <file>../img/backward_128px_28344_easyicon.net.png</file>
+        <file>../img/restart_72px_28438_easyicon.net.png</file>
+    </qresource>
+</RCC>
